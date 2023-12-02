@@ -1,0 +1,16 @@
+.box {
+    min-height: 150px;
+    width: auto;
+    background: teal;
+}
+
+.right-box { height: 100%;
+    width: auto;
+    background: limegreen;
+}
+
+.container {
+    background: #98D7C2;
+    margin-top: 50px;
+    height: 100vh;
+}

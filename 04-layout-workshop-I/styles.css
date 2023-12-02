@@ -1,0 +1,17 @@
+.box {
+    width: auto;
+    background: teal;
+}
+
+.square {aspect-ratio: 1/1;
+}
+
+.ratio-16-10 {
+    aspect-ratio: 16/10;
+}
+
+.container {
+    background: #98D7C2;
+    margin-top: 50px;
+    height: 100vh;
+}
